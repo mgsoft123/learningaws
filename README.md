@@ -123,7 +123,9 @@ sls invoke  -f hello -p event.json
 Callback is same as return in function could return error:-
 e.g callback(new Error('broke'));
 
-<h2> Testing and Debugging </h2>
+<h3> Testing and Debugging </h3>
+
+View remote logs sls logs -f hello
 
 
 
