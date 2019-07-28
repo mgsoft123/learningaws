@@ -45,6 +45,9 @@ create a service t(emplete) n(ame)
 sls create --t aws-nodejs --n simple
 create handler and serverless.yml file Can chage e.g regionssl deploy -f hello
 
+deploy serverless
+serverless deploy
+
 deploy function:-
 sls deploy -f hello
 
