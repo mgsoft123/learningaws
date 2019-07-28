@@ -23,6 +23,6 @@ For serverless
 
 lambda cost 20c per million reqs + rounded 100 ms compute time + memory GB/sec * const
 
-Create Lambda through AWS console create Role -basic Lambda execution 
+Create Lambda through AWS console create Role -basic Lambda execution -edit time out memory etc
 
 
