@@ -21,4 +21,6 @@ For serverless
 
 3 Check installed : serverless --version 
 
+lambda cost 20c per million reqs + rounded 100 ms compute time + memory GB/sec * const
+
 
