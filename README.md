@@ -133,4 +133,9 @@ for endpoint detail etc
 
 Send as GET etc via postman
 
+Can monitor in cloudwatch
+
+![](images/monitorigLambdaOnCloudWatch.PNG)
+
+
 
