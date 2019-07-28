@@ -67,6 +67,8 @@ Edit yml file to create an API :-
 
 
 sls deploy
+provides endpoint for api to try in browser :-
+ https://.......uof.execute-api.us-east-1.amazonaws.com/dev/hello
 
 
 
