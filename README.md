@@ -26,6 +26,8 @@ lambda cost 20c per million reqs + rounded 100 ms compute time + memory GB/sec *
 Create Lambda through AWS console create Role -basic Lambda execution -edit time out memory etc
 
 API Gateway through mangement console use provided tempalte(Swagger 2.0)
-Then click on new API /Create Resource called foo create GET method
+Then click on new API /Create Resource called foo create GET method & lambda integration
+
+
 
 
