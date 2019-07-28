@@ -33,5 +33,6 @@ Then click on new API /Create Resource called foo create GET method & lambda int
 
 
 save and test -will see call invocation on Lambda dashboard monitoring
+Management console tedious hence serverless framework
 
 
