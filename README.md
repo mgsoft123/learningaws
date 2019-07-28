@@ -120,6 +120,9 @@ can send to remote too :-
 
 sls invoke  -f hello -p event.json
 
+Callback is same as return in function could return error:-
+e.g callback(new Error('broke'));
+
 
 
 
