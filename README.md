@@ -116,6 +116,10 @@ Create a local event,json file e.g :-
 invoke with event from json file
 
 sls invoke local -f hello -p event.json
+can send to remote too :-
+
+sls invoke  -f hello -p event.json
+
 
 
 
