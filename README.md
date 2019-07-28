@@ -61,5 +61,5 @@ sls invoke -f hello
 or locally invoke :-
 sls invoke local -f hello
 
-
+Edit yml file to create an API :-
 
