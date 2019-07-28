@@ -58,5 +58,8 @@ uploads to S3 and creates resources
 Invoke remotely from command line :-
 sls invoke -f hello
 
+or locally invoke :-
+sls invoke local -f hello
+
 
 
