@@ -128,5 +128,7 @@ e.g callback(new Error('broke'));
 View remote logs sls logs -f hello
 Uses cloudwatch service for rlogs
 
+sls info
+for endpoint detail etc
 
 
