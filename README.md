@@ -37,4 +37,12 @@ Management console tedious hence serverless framework serverless.com
 
 type servelss help or ssl --help to see commands
 
+Create a serverless project
+
+mkdir for serless files e.g app
+
+create a service t(emplete) n(ame)
+sls create --t aws-nodejs --n simple
+
+
 
