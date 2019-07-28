@@ -55,5 +55,8 @@ uploads to S3 and creates resources
 
 ![](images/serverlessdeploy.PNG)
 
+Invoke remotely from command line :-
+sls invoke -f hello
+
 
 
