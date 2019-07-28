@@ -113,5 +113,9 @@ Create a local event,json file e.g :-
 "foo" : "bar"
 }
 
+invoke with event from json file
+
+sls invoke local -f hello -p event.json
+
 
 
