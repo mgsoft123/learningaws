@@ -66,4 +66,7 @@ Edit yml file to create an API :-
 ![](createAPI.PNG)
 
 
+sls deploy
+
+
 
