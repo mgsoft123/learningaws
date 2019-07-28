@@ -29,5 +29,7 @@ API Gateway through mangement console use provided tempalte(Swagger 2.0)
 Then click on new API /Create Resource called foo create GET method & lambda integration
 
 
+![](images/apigatewayLambda.PNG)
+
 
 
