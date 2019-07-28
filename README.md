@@ -51,5 +51,7 @@ serverless deploy
 deploy function:-
 sls deploy -f hello
 
+uploads to S3 and creates resources
+
 
 
