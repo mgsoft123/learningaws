@@ -32,6 +32,6 @@ Then click on new API /Create Resource called foo create GET method & lambda int
 ![](images/apigatewayLambda.PNG)
 
 
-save and test
+save and test -will see call invocation on Lambda dashboard monitoring
 
 
