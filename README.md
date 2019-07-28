@@ -131,4 +131,6 @@ Uses cloudwatch service for rlogs
 sls info
 for endpoint detail etc
 
+Send as GET etc via postman
+
 
