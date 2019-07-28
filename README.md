@@ -53,7 +53,7 @@ sls deploy -f hello
 
 uploads to S3 and creates resources
 
-![](imgages/serverlessdeploy.PNG)
+![](images/serverlessdeploy.PNG)
 
 
 
