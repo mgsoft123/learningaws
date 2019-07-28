@@ -126,6 +126,7 @@ e.g callback(new Error('broke'));
 <h3> Testing and Debugging </h3>
 
 View remote logs sls logs -f hello
+Uses cloudwatch service for rlogs
 
 
 
