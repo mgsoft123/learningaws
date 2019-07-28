@@ -63,3 +63,7 @@ sls invoke local -f hello
 
 Edit yml file to create an API :-
 
+![](createAPI.PNG)
+
+
+
