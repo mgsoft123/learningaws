@@ -7,3 +7,8 @@ Set up user in IAM and for keys
 [default]
 aws_access_key_id=
 aws_secret_access_key=
+For serverless 
+1 Install node.s > v6
+2 Install serverless : npm install -g serverless
+3 Check installed : serverless --version
+
