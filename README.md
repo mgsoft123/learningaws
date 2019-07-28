@@ -43,6 +43,7 @@ mkdir for serless files e.g app
 
 create a service t(emplete) n(ame)
 sls create --t aws-nodejs --n simple
+create handler and serverless.yml file
 
 
 
