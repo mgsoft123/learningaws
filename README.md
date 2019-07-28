@@ -10,6 +10,6 @@ aws_secret_access_key=
 For serverless 
 1 Install node.s > v6
 2 Install serverless : npm install -g serverless
-3 Check installed : serverless --version
+3 Check installed : serverless --version 
 
 
