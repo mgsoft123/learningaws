@@ -6,3 +6,5 @@ sls deploy
 
 Check deployed ok
 sls invoke -f createArticle
+
+![](../images/statelessnobackendimplemented.PNG)
