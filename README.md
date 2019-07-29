@@ -60,11 +60,15 @@ uploads to S3 and creates resources
 ![](images/serverlessdeploy.PNG)
 
 Invoke remotely from command line :-
-sls invoke -f hello
+sls invoke -f hello  -l 
 
-
+l(og)
 or locally invoke :-
 sls invoke local -f hello
+
+sls invoke local -f hello -t
+
+t(ail) see logs as they happen good for debugging
 
 Edit yml file to create an API :-
 
