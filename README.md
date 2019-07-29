@@ -153,5 +153,9 @@ Can monitor in cloudwatch
 
 ![](images/monitorigLambdaOnCloudWatch.PNG)
 
+To remove everything created in sls e.g in s3 buckets etc
+sls remove
+
+
 
 
