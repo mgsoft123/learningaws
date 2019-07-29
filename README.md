@@ -13,6 +13,10 @@ aws_access_key_id=
 
 aws_secret_access_key=
 
+An alternative using serverless is
+
+serverless config credentials --provider aws --key XXX  --secret YYY --profile username
+
 For serverless 
 
 1 Install node.s > v6
