@@ -133,6 +133,9 @@ for endpoint detail etc
 
 set SLS_DEBUG=*  to see degug output and what it is doing
 
+view logs per funcion call
+sls logs -f createArticle
+
 Send as GET etc via postman
 
 Can monitor in cloudwatch
