@@ -66,7 +66,10 @@ l(og)
 or locally invoke :-
 sls invoke local -f hello
 
-sls invoke local -f hello -t
+sls logs local -f hello -t
+t(ail) see logs as they happen good for debugging
+
+sls invoke local -f hello 
 
 t(ail) see logs as they happen good for debugging
 
