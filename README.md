@@ -131,6 +131,8 @@ Uses cloudwatch service for rlogs
 sls info
 for endpoint detail etc
 
+set SLS_DEBUG=*  to see degug output and what it is doing
+
 Send as GET etc via postman
 
 Can monitor in cloudwatch
